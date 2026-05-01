@@ -1,0 +1,16 @@
+{
+  "name": "Hot Springs Garage Door Help",
+  "short_name": "Hot Springs",
+  "description": "Garage Door Repair in Hot Springs, Arkansas.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8f9fa",
+  "theme_color": "#25483f",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
